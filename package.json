@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^8.2.2",
+    "jest": "^27.5.1",
+    "test": "^0.6.0"
+  },
+  "name": "main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "description": ""
+}
