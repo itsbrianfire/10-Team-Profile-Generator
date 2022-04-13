@@ -9,7 +9,7 @@
   ### [Questions](#questions) 
   
   ## Installation
-  ##### Open the code in VS Code and type 'npm i' in the terminal. Type 'npm run test' to run tests to check if they pass. Then run the index.js file in the integrated terminal by typing 'node index' and hitting enter. This will run prompted questions. Once the user is done answering, the application will generate an index.html file with the user's answers inside the dist folder.
+  ##### Open the code in VS Code and type 'npm i' in the terminal to install packages. Type 'npm run test' to run tests to check if they pass. Then run the index.js file in the integrated terminal by typing 'node index' and hitting enter. This will run prompted questions. Once the user is done answering, the application will generate an index.html file with the user's answers inside the dist folder.
   
   ## Usage
   ##### This application is best used and run in VS code via the integrated terminal.
